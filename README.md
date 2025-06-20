@@ -1,11 +1,11 @@
 # Conversor Imagem - URL
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Este projeto consiste em um vonjunto de scripts Python que convertem imagens para URLs e realiza a injeção das URLs geradas em um arquivo .html.
+Projeto voltado para extraçaõ e conversão de imagens em **`URL`** com injeção **`html`**. Este projeto simples surgiu apartir da necessidade de injetar um arquivo html oriundo do notion na plataforma OneDrive
 
 ## Tecnologias
-Foram utilizadas bibliotecas como
-* beatifulSoup para extração do caminho das imagens no html original e inserção no html alterado
-* API Cloudinary
+* **`beatifulSoup`** 
+* **`API Cloudinary`**
 
 ## Arquivos
 * `Esteiras.html`: Arquivo HTML original que contém as imagens que iremos converter em URLs.
